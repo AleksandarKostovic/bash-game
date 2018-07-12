@@ -9,3 +9,5 @@ sudo chmod +x game.sh
 ./game.sh
 ```
 Reason for running sudo chmod is that your OS wont allow you to run shell script unless you overwrite it by doing this. 
+
+You should be greeted with questions now.
