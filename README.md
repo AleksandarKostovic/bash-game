@@ -1,4 +1,4 @@
-This is a very simple game made in shell script, meant to be tried in any bash terminal.
+This is a very simple game made in shell script, made for any bash terminal.
 
 # Instalation
 
