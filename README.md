@@ -1,3 +1,5 @@
+# Introduction
+
 This is a very simple CLI game written in shell script, made for any bash terminal.
 
 # Instalation
